@@ -10,8 +10,8 @@
         <scala.version>2.10.1</scala.version>
     </properties>
     <build>
-        <sourceDirectory>src.main.scala</sourceDirectory>
-        <testSourceDirectory>src.test.scala</testSourceDirectory>
+        <sourceDirectory>src/main/scala</sourceDirectory>
+        <testSourceDirectory>src/test/scala</testSourceDirectory>
         <plugins>
             <plugin>
                 <artifactId>maven-compiler-plugin</artifactId>
